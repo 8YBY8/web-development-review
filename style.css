@@ -1,0 +1,30 @@
+body {
+    background-color: papayawhip;
+    opacity: 0.9;
+}
+
+h1 {
+    text-decoration: overline green dotted 6px;
+}
+
+h2 {
+    letter-spacing: 20px;
+}
+
+table, th, td {
+    border: 2px solid;
+    border-collapse: collapse;
+}
+
+th, td {
+    text-align: left;
+    padding: 10px;
+}
+
+tr:hover {
+    background-color: aquamarine;
+}
+
+div[class = "test"] {
+    color: peru;
+}
